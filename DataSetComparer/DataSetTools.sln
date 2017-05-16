@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSetTools", "DataSetTools.csproj", "{BFC268BE-5EBC-4084-A6B2-DB0590005B01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D1101CA3-9004-47C9-B228-0EBC9BB777DD}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC268BE-5EBC-4084-A6B2-DB0590005B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC268BE-5EBC-4084-A6B2-DB0590005B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC268BE-5EBC-4084-A6B2-DB0590005B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC268BE-5EBC-4084-A6B2-DB0590005B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
